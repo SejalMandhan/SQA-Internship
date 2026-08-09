@@ -121,9 +121,5 @@ Screenshots are included for important test cases such as:
 
 BS Computer Science Graduate
 
-Submission Email:  
-`hisabdo.app@gmail.com`
-
----
 
 ⭐ Thank you for visiting this repository!

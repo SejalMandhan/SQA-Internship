@@ -98,3 +98,13 @@ Positive Negative Test Cases
 Screenshots
 Test Execution Summary
 README.md
+
+
+## 👨‍💻 Author
+
+**Sejal Mandhan**
+
+BS Computer Science Graduate
+
+⭐ Thank you for visiting this repository!
+

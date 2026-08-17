@@ -80,3 +80,11 @@ If a defect was identified during test execution.
 ## 🎯 Project Summary
 
 This project demonstrates practical **Software Quality Assurance testing** by creating detailed test cases, executing test scenarios, recording actual results, and documenting defects for the HisabDo mobile application and website.
+
+
+
+## 👨‍💻 Author
+
+**Sejal Mandhan**
+
+BS Computer Science Graduate | Software Quality Assurance (SQA) Enthusiast
